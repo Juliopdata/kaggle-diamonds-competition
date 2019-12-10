@@ -7,7 +7,7 @@
 
 ## <p align="center">Diamonds Prize Prediction</p>
 
-<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/kagglelogo.png"></p>
+<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/diamond.jpg"></p>
 
 ### Overview
 
