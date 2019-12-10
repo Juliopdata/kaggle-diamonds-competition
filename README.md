@@ -7,7 +7,7 @@
 
 ## <p align="center">Diamonds Prize Prediction</p>
 
-<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/diamond.jpg"></p>
+<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/diamond.png"></p>
 
 ### Overview
 
@@ -18,7 +18,7 @@ The goal of this competition is the prediction of the price of diamonds based on
 
 ## <p align="center">Avila Bible</p>
 
-<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/avila.jpg"></p>
+<p align="center"> <img  src="https://github.com/Juliopdata/kaggle/blob/master/diamonds/images/avila.png"></p>
 
 ### Overview
 
